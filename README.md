@@ -10,10 +10,10 @@ Check out the live demo of my portfolio [here](https://sajib3489.github.io/my-po
 
 ## Features
 
-- Responsive Design: The website is fully responsive and works seamlessly on different devices and screen sizes.
-- Modern UI: A sleek and modern user interface that highlights my work.
-- Easy Navigation: Simple and intuitive navigation to explore different sections of my portfolio.
-- Project Showcase: Detailed sections for my projects with descriptions and links.
+- **Responsive Design:** The website is fully responsive and works seamlessly on different devices and screen sizes.
+- **Modern UI:** A sleek and modern user interface that highlights my work.
+- **Easy Navigation:** Simple and intuitive navigation to explore different sections of my portfolio.
+- **Project Showcase:** Detailed sections for my projects with descriptions and links.
 
 ## Technologies Used
 
@@ -22,7 +22,7 @@ Check out the live demo of my portfolio [here](https://sajib3489.github.io/my-po
 
 ## About
 
-Before creating this portfolio website, I used it to showcase my profile. However, I have now started using Quartz. You can learn more about me [here](https://pramanic.fi/).
+Before creating this portfolio website, I used it to showcase my profile. However, I have now started using **Quartz**. You can learn more about me [here](https://pramanic.fi/).
 
 ## Contact
 
